@@ -1,0 +1,31 @@
+
+
+
+a      {text-decoration: none;
+        background: darkblue;
+        color: aliceblue;
+        border: 2px solid black;
+        padding-right: 50px;
+        padding-left: 50px;
+        padding-top: 8px;
+        padding-bottom: 6px;
+        margin: 36px auto;
+}
+
+
+.prvni {color: aliceblue;
+        border: 2px solid black;
+        background: lightseagreen;
+        padding-right: 50px;
+        padding-left: 50px;
+        padding-top: 8px;
+        padding-bottom: 6px;
+}
+
+.druhy {color: aliceblue;
+        border: 2px solid black;
+        background: darkblue;
+        padding-right: 50px;
+        padding-left: 50px;
+        padding-top: 8px;
+        padding-bottom: 6px;}
