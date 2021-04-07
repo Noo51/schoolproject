@@ -1,0 +1,49 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    background-color: lightseagreen;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: serif;
+
+}
+
+header img {
+    width: 150px
+
+}
+
+main {
+    height: 675px;
+
+}
+
+main img {
+    width: 400px;
+    float: left;
+
+
+}
+footer {
+    background-color: lightseagreen;
+    height: 100px;
+    text-align: center;
+}
+
+a {
+
+    border: 2px solid blue;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: cornflowerblue;
+    color: white;
+}
