@@ -9,11 +9,7 @@ html {
 }
 
 body {
-    background: linear-gradient(
-            to bottom,
-            rgba(0,0,0, 0),
-            rgba(255,255,255, 100)
-    ),url(images/molo2.jpeg);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(255, 255, 255, 100)), url(images/molo2.jpeg);
 
     background-repeat: no-repeat;
     background-size: cover;
@@ -24,14 +20,14 @@ header {
     height: 13vh;
 
     width: 722px;
-    margin: 0px auto;
+    margin: 0 auto;
 }
 
 main {
     text-align: center;
     height: 680px;
     width: 722px;
-    margin: 0px auto;
+    margin: 0 auto;
     font-family: sans-serif;
 }
 
@@ -69,6 +65,7 @@ header nav ul li {
     margin-top: 20px;
 
 }
+
 header nav ul li a {
     font-family: sans-serif;
     text-decoration: none;
